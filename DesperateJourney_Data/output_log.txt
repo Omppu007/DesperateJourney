@@ -1,0 +1,118 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Mobility Radeon HD 5000 Series (ID=0x68c1)
+    Vendor:   ATI
+    VRAM:     1010 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Koulutiedostot\Desperate Journey\TiteGameJam16\DesperateJourney\DesperateJourney_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Koulutiedostot\Desperate Journey\TiteGameJam16\DesperateJourney\DesperateJourney_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Koulutiedostot\Desperate Journey\TiteGameJam16\DesperateJourney\DesperateJourney_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Koulutiedostot\Desperate Journey\TiteGameJam16\DesperateJourney\DesperateJourney_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Koulutiedostot\Desperate Journey\TiteGameJam16\DesperateJourney\DesperateJourney_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Koulutiedostot\Desperate Journey\TiteGameJam16\DesperateJourney\DesperateJourney_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Koulutiedostot\Desperate Journey\TiteGameJam16\DesperateJourney\DesperateJourney_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Koulutiedostot\Desperate Journey\TiteGameJam16\DesperateJourney\DesperateJourney_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.240 seconds
+Platform assembly: C:\Koulutiedostot\Desperate Journey\TiteGameJam16\DesperateJourney\DesperateJourney_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Koulutiedostot\Desperate Journey\TiteGameJam16\DesperateJourney\DesperateJourney_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3286x1080 at -1366,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.040553 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.639444 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1659.
+Total: 0.724114 ms (FindLiveObjects: 0.143975 ms CreateObjectMapping: 0.038111 ms MarkObjects: 0.527783 ms  DeleteObjects: 0.013088 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Pause.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Projectile!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Melee!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Projectile!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Swhing!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+40
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Swhing!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+30
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Swhing!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+20
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Swhing!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Pause.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.414483 ms
+
+Unloading 160 unused Assets to reduce memory usage. Loaded Objects now: 216.
+Total: 0.738742 ms (FindLiveObjects: 0.047350 ms CreateObjectMapping: 0.037341 ms MarkObjects: 0.348005 ms  DeleteObjects: 0.304890 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.581678 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1659.
+Total: 0.777623 ms (FindLiveObjects: 0.139741 ms CreateObjectMapping: 0.033876 ms MarkObjects: 0.588222 ms  DeleteObjects: 0.014243 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Pause.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Pause.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.181581 ms
+
+Unloading 160 unused Assets to reduce memory usage. Loaded Objects now: 216.
+Total: 0.676763 ms (FindLiveObjects: 0.040806 ms CreateObjectMapping: 0.037726 ms MarkObjects: 0.284102 ms  DeleteObjects: 0.312589 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: be4 -> priority: 1 
